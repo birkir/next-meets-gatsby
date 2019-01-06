@@ -1,5 +1,14 @@
 # next-meets-gatsby
 
+> THIS IS DEPCRATED!
+
+**NOTE:** [Go to  this example in the `graphql-gatsby` package.](https://github.com/birkir/graphql-gatsby/tree/master/examples/with-next)
+
+
+---
+
+> Depricated (OLD)
+
 This is a NextJS app with gatsby graphql server under the hood.
 
 Stuff to look out for:
